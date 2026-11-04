@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-label="Terminal de Marco: ingeniería de software, backend y apps multiplataforma. Stack: Go, Kotlin, C#, Compose.">
+  <style>
+    text { font-family: Consolas, 'Courier New', Menlo, monospace; font-size: 14px; fill: #c9d1d9; white-space: pre; }
+    .m { fill: #6e7681; }
+    .a { fill: #3fb950; }
+    .b { font-weight: 700; }
+    .t { font-size: 13px; }
+    .ascii { fill: #3fb950; }
+    .wipe { fill: #0d1117; transform-box: fill-box; transform-origin: right; animation: wipe var(--d, .7s) steps(var(--s, 10)) var(--w, 0s) both; }
+    .in { animation: in .25s ease-out var(--w, 0s) both; }
+    .bar { transform-box: fill-box; transform-origin: left; animation: grow 1.4s steps(20) 4.9s both; }
+    .cur { animation: in .1s 6.7s both, blink 1s steps(1) 6.8s infinite; }
+    @keyframes wipe { from { transform: scaleX(1); } to { transform: scaleX(0); } }
+    @keyframes in { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+  </style>
+
+  <!-- ventana -->
+  <rect x="1" y="1" width="898" height="428" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="1" y1="34" x2="899" y2="34" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="22" cy="17.5" r="5.5" fill="#30363d"/>
+  <circle cx="40" cy="17.5" r="5.5" fill="#30363d"/>
+  <circle cx="58" cy="17.5" r="5.5" fill="#30363d"/>
+  <text class="m t" x="450" y="22" text-anchor="middle">marco@dev: ~</text>
+
+  <!-- $ neofetch -->
+  <text x="24" y="64"><tspan class="a">$</tspan> neofetch</text>
+  <rect class="wipe" x="38" y="50" width="74" height="19" style="--w:.3s;--d:.7s;--s:8"/>
+
+  <g class="ascii" xml:space="preserve">
+    <text class="ascii in" x="24" y="96"  textLength="370" lengthAdjust="spacingAndGlyphs" style="--w:1.10s">███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗ </text>
+    <text class="ascii in" x="24" y="112" textLength="370" lengthAdjust="spacingAndGlyphs" style="--w:1.18s">████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔═══██╗</text>
+    <text class="ascii in" x="24" y="128" textLength="370" lengthAdjust="spacingAndGlyphs" style="--w:1.26s">██╔████╔██║███████║██████╔╝██║     ██║   ██║</text>
+    <text class="ascii in" x="24" y="144" textLength="370" lengthAdjust="spacingAndGlyphs" style="--w:1.34s">██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║</text>
+    <text class="ascii in" x="24" y="160" textLength="370" lengthAdjust="spacingAndGlyphs" style="--w:1.42s">██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝</text>
+    <text class="ascii in" x="24" y="176" textLength="370" lengthAdjust="spacingAndGlyphs" style="--w:1.50s">╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ </text>
+  </g>
+
+  <text class="in" x="440" y="96"  style="--w:1.2s"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan></text>
+  <text class="m in" x="440" y="114" style="--w:1.3s">─────────</text>
+  <text class="in" x="440" y="134" style="--w:1.4s"><tspan class="m">rol    </tspan>ingeniería de software</text>
+  <text class="in" x="440" y="153" style="--w:1.5s"><tspan class="m">foco   </tspan>backend · apps multiplataforma</text>
+  <text class="in" x="440" y="172" style="--w:1.6s"><tspan class="m">stack  </tspan>Go · Kotlin · C# · Compose</text>
+  <text class="in" x="440" y="191" style="--w:1.7s"><tspan class="m">tools  </tspan>Git · Android Studio · Godot</text>
+  <text class="in" x="440" y="210" style="--w:1.8s"><tspan class="m">ahora  </tspan>aprendiendo Kotlin Multiplatform</text>
+  <g class="in" style="--w:1.95s">
+    <rect x="440" y="224" width="24" height="12" rx="2" fill="#161b22"/>
+    <rect x="468" y="224" width="24" height="12" rx="2" fill="#0e4429"/>
+    <rect x="496" y="224" width="24" height="12" rx="2" fill="#006d32"/>
+    <rect x="524" y="224" width="24" height="12" rx="2" fill="#26a641"/>
+    <rect x="552" y="224" width="24" height="12" rx="2" fill="#39d353"/>
+  </g>
+
+  <!-- $ git log -->
+  <text x="24" y="276"><tspan class="a">$</tspan> git log --graph --oneline</text>
+  <rect class="wipe" x="38" y="262" width="226" height="19" style="--w:2.3s;--d:1s;--s:25"/>
+
+  <text class="in" x="24" y="300" style="--w:3.4s"><tspan class="a">*</tspan> <tspan class="m">a3f9c21</tspan> <tspan class="a">(HEAD -&gt; main)</tspan> feat: casos de uso de eventos</text>
+  <text class="a in" x="24" y="317" style="--w:3.5s">|\</text>
+  <text class="in" x="24" y="334" style="--w:3.6s"><tspan class="a">| *</tspan> <tspan class="m">7b2e410</tspan> feat: modelo de datos de usuario</text>
+  <text class="in" x="24" y="351" style="--w:3.7s"><tspan class="a">* |</tspan> <tspan class="m">5d81c0e</tspan> feat: estructura de eventos</text>
+  <text class="a in" x="24" y="368" style="--w:3.8s">|/</text>
+  <text class="in" x="24" y="385" style="--w:3.9s"><tspan class="a">*</tspan> <tspan class="m">1c0a9e3</tspan> init: proyecto multiplataforma</text>
+
+  <!-- $ make build -->
+  <text x="560" y="276"><tspan class="a">$</tspan> make build</text>
+  <rect class="wipe" x="574" y="262" width="92" height="19" style="--w:4.1s;--d:.6s;--s:10"/>
+
+  <text class="m in" x="560" y="300" style="--w:4.8s">compilando módulos…</text>
+  <g class="in" style="--w:4.8s">
+    <rect x="560" y="312" width="250" height="12" rx="2" fill="#161b22" stroke="#30363d"/>
+  </g>
+  <rect class="bar" x="561" y="313" width="248" height="10" rx="1.5" fill="#26a641"/>
+  <text class="a in" x="820" y="323" style="--w:6.3s">100%</text>
+  <text class="in" x="560" y="351" style="--w:6.4s"><tspan class="a">✓</tspan> build ok <tspan class="m">· 0 errores</tspan></text>
+
+  <!-- prompt final -->
+  <text class="in" x="24" y="414" style="--w:6.7s"><tspan class="a">$</tspan></text>
+  <rect class="cur" x="38" y="401" width="9" height="16" fill="#3fb950"/>
+</svg>

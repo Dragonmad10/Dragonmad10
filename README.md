@@ -1,32 +1,7 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="MARCO: game dev y backend. Press start.">
-</div>
 
-## `▶ NEW GAME`
+<img src="assets/terminal.svg" width="100%" alt="Terminal de Marco: ingeniería de software, backend y apps multiplataforma. Stack: Go, Kotlin, C#, Compose.">
 
-¡Hola! Soy **Marco**. Hago videojuegos y, cuando hace falta, también lo que corre detrás de ellos.
-Me lo paso igual de bien ajustando cómo salta un personaje que montando el servidor que guarda la partida.
+<a href="https://github.com/patosalvaje12121-ctrl/DnD-quedamos"><img src="https://img.shields.io/badge/%E2%98%85%20proyecto%20destacado-DnD--quedamos%20%C2%B7%20Kotlin%20Multiplatform-3fb950?style=flat-square&labelColor=0d1117" alt="Proyecto destacado: DnD-quedamos"></a>
 
-- 🎮 Si algo se puede jugar, quiero saber cómo está hecho.
-- ⏱️ Game jams: pocas horas, mucho café y alguna idea que sale bien.
-- 🌱 Ahora mismo subiendo de nivel en **Kotlin Multiplatform** y **Go**.
-
-## `🎒 INVENTARIO`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,godot,go,kotlin,androidstudio,git" alt="C#, Godot, Go, Kotlin, Android Studio y Git">
-</p>
-
-## `⚔️ MISIÓN ACTUAL`
-
-> ### [🎲 DnD-quedamos](https://github.com/patosalvaje12121-ctrl/DnD-quedamos)
-> App para organizar quedadas y eventos, con mapa incluido.
-> Funciona en **Android, Web y Escritorio**, todo con **Kotlin + Compose Multiplatform**.
->
-> **Mi parte:** usuarios y eventos (modelos de datos, estructura y casos de uso).
-
----
-
-<div align="center">
-  <sub><code>CONTINUE? ▶ SÍ · NO</code></sub>
 </div>
