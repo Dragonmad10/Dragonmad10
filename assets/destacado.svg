@@ -9,8 +9,8 @@
     @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
   </style>
   <rect x="1" y="1" width="898" height="72" rx="5" fill="#11141a" stroke="#2a2f3a" stroke-width="1.5"/>
-  <text x="24" y="31" textLength="96" lengthAdjust="spacingAndGlyphs"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan> <tspan class="c">~</tspan>&gt;</text>
-  <text x="128" y="31">cat destacado.md</text>
+  <text x="24" y="31" textLength="112" lengthAdjust="spacingAndGlyphs">[<tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan> <tspan class="c">~</tspan>]$</text>
+  <text x="144" y="31">cat destacado.md</text>
   <text x="24" y="55"><tspan class="a">★</tspan> <tspan class="a b">DnD-quedamos</tspan> <tspan class="m">—</tspan> app para organizar quedadas y eventos <tspan class="m">· Kotlin Multiplatform · Android · Web · Desktop</tspan></text>
   <text class="c arrow" x="856" y="55">↗</text>
 </svg>
