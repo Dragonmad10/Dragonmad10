@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="MARCO: game dev y backend. Press start.">
+  <style>
+    .mono { font-family: 'Courier New', Consolas, monospace; }
+    .title { font-size: 64px; font-weight: 700; letter-spacing: 10px; fill: #f4f1ea; }
+    .tag { font-size: 13px; letter-spacing: 3px; fill: #ff7a59; }
+    .sub { font-size: 17px; fill: #b9b4d0; }
+    .start { font-size: 18px; font-weight: 700; letter-spacing: 3px; fill: #ffd166; animation: blink 1.1s steps(1) infinite; }
+    .star { fill: #ffffff; animation: twinkle 3s ease-in-out infinite; }
+    .s2 { animation-delay: .7s; } .s3 { animation-delay: 1.4s; } .s4 { animation-delay: 2.1s; }
+    .die { animation: float 3.2s ease-in-out infinite; }
+    @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+    @keyframes twinkle { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+  </style>
+
+  <rect width="900" height="230" rx="18" fill="#14122b"/>
+  <rect x="6" y="6" width="888" height="218" rx="14" fill="none" stroke="#2c2852" stroke-width="2"/>
+
+  <!-- estrellas pixel -->
+  <rect class="star" x="80" y="30" width="4" height="4"/>
+  <rect class="star s2" x="330" y="22" width="3" height="3"/>
+  <rect class="star s3" x="520" y="48" width="4" height="4"/>
+  <rect class="star s4" x="610" y="190" width="3" height="3"/>
+  <rect class="star s2" x="860" y="36" width="4" height="4"/>
+  <rect class="star s3" x="430" y="196" width="3" height="3"/>
+  <rect class="star" x="575" y="110" width="3" height="3"/>
+  <rect class="star s4" x="40" y="180" width="3" height="3"/>
+
+  <!-- texto -->
+  <text class="mono tag" x="56" y="58">&gt; PLAYER 1 · LVL ??</text>
+  <text class="mono title" x="52" y="125">MARCO</text>
+  <text class="mono sub" x="56" y="156">game dev · backend · tirador de dados</text>
+  <text class="mono start" x="56" y="196">▶ PRESS START</text>
+
+  <!-- d20 -->
+  <g class="die">
+    <polygon points="740,40 800.6,75 800.6,145 740,180 679.4,145 679.4,75" fill="#2a1f4f" stroke="#ff7a59" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="740,72 778,138 702,138" fill="#3a2b6b" stroke="#ff7a59" stroke-width="2.5" stroke-linejoin="round"/>
+    <g stroke="#ff7a59" stroke-width="2" stroke-linecap="round" opacity=".85">
+      <line x1="740" y1="40" x2="740" y2="72"/>
+      <line x1="800.6" y1="75" x2="740" y2="72"/>
+      <line x1="800.6" y1="75" x2="778" y2="138"/>
+      <line x1="800.6" y1="145" x2="778" y2="138"/>
+      <line x1="740" y1="180" x2="778" y2="138"/>
+      <line x1="740" y1="180" x2="702" y2="138"/>
+      <line x1="679.4" y1="145" x2="702" y2="138"/>
+      <line x1="679.4" y1="75" x2="702" y2="138"/>
+      <line x1="679.4" y1="75" x2="740" y2="72"/>
+    </g>
+    <text class="mono" x="740" y="124" text-anchor="middle" font-size="24" font-weight="700" fill="#ffd166">20</text>
+  </g>
+</svg>

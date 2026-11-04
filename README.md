@@ -1,26 +1,32 @@
-# ¡Hola! Soy Marco 👋
+<div align="center">
+  <img src="assets/banner.svg" width="100%" alt="MARCO: game dev y backend. Press start.">
+</div>
 
-- 🎮 Me gusta hacer **videojuegos** y también el **backend** que hay detrás de ellos.
-- 🕹️ Participo en game jams y en proyectos en equipo.
-- 🌱 Ahora mismo estoy aprendiendo **Kotlin Multiplatform** y **Go**.
+## `▶ NEW GAME`
 
-## 🛠️ Tecnologías
+¡Hola! Soy **Marco**. Hago videojuegos y, cuando hace falta, también lo que corre detrás de ellos.
+Me lo paso igual de bien ajustando cómo salta un personaje que montando el servidor que guarda la partida.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🎮 Si algo se puede jugar, quiero saber cómo está hecho.
+- ⏱️ Game jams: pocas horas, mucho café y alguna idea que sale bien.
+- 🌱 Ahora mismo subiendo de nivel en **Kotlin Multiplatform** y **Go**.
 
-## ⭐ Proyecto destacado
+## `🎒 INVENTARIO`
 
-### [🎲 DnD-quedamos](https://github.com/patosalvaje12121-ctrl/DnD-quedamos)
-App multiplataforma (**Android, Web y Escritorio**) hecha con **Kotlin + Compose Multiplatform** para organizar quedadas y eventos, con mapa integrado.
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,godot,go,kotlin,androidstudio,git" alt="C#, Godot, Go, Kotlin, Android Studio y Git">
+</p>
 
-Proyecto en equipo: me encargo de la parte de **usuarios y eventos** (modelos de datos, estructura y casos de uso).
+## `⚔️ MISIÓN ACTUAL`
 
-## 🚧 En desarrollo
+> ### [🎲 DnD-quedamos](https://github.com/patosalvaje12121-ctrl/DnD-quedamos)
+> App para organizar quedadas y eventos, con mapa incluido.
+> Funciona en **Android, Web y Escritorio**, todo con **Kotlin + Compose Multiplatform**.
+>
+> **Mi parte:** usuarios y eventos (modelos de datos, estructura y casos de uso).
 
-- **7 Nights at Stardey Graveyard** — juego hecho con Godot y C#.
-- **leaderboard-api** — API de clasificaciones para juegos, escrita en Go.
+---
+
+<div align="center">
+  <sub><code>CONTINUE? ▶ SÍ · NO</code></sub>
+</div>
