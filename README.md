@@ -1,8 +1,8 @@
 # ¡Hola! Soy Marco 👋
 
-🎮 Me gusta hacer **videojuegos** y también el **backend** que hay detrás de ellos.
-🕹️ Participo en game jams y en proyectos en equipo.
-🌱 Ahora mismo estoy aprendiendo **Kotlin Multiplatform** y **Go**.
+- 🎮 Me gusta hacer **videojuegos** y también el **backend** que hay detrás de ellos.
+- 🕹️ Participo en game jams y en proyectos en equipo.
+- 🌱 Ahora mismo estoy aprendiendo **Kotlin Multiplatform** y **Go**.
 
 ## 🛠️ Tecnologías
 
@@ -17,6 +17,7 @@
 
 ### [🎲 DnD-quedamos](https://github.com/patosalvaje12121-ctrl/DnD-quedamos)
 App multiplataforma (**Android, Web y Escritorio**) hecha con **Kotlin + Compose Multiplatform** para organizar quedadas y eventos, con mapa integrado.
+
 Proyecto en equipo: me encargo de la parte de **usuarios y eventos** (modelos de datos, estructura y casos de uso).
 
 ## 🚧 En desarrollo
