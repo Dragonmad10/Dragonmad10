@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="452" viewBox="0 0 900 452" role="img" aria-label="Konsole en CachyOS con fish: fastfetch de Marco, ingeniería de software, backend y apps multiplataforma. Stack: Go, Kotlin, C#, Compose.">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="452" viewBox="0 0 900 452" role="img" aria-label="Konsole en CachyOS con fish: fastfetch de Marco, ingeniería de software, backend y apps multiplataforma. Stack: Go, Kotlin, C#.">
   <defs>
     <linearGradient id="cachy" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#00e5a0"/>
@@ -58,7 +58,7 @@
   <text class="in" x="440" y="130" style="--w:1.4s"><tspan class="a b">OS</tspan><tspan class="m">:    </tspan>CachyOS x86_64</text>
   <text class="in" x="440" y="149" style="--w:1.5s"><tspan class="a b">Rol</tspan><tspan class="m">:   </tspan>ingeniería de software</text>
   <text class="in" x="440" y="168" style="--w:1.6s"><tspan class="a b">Foco</tspan><tspan class="m">:  </tspan>backend · apps multiplataforma</text>
-  <text class="in" x="440" y="187" style="--w:1.7s"><tspan class="a b">Stack</tspan><tspan class="m">: </tspan>Go · Kotlin · C# · Compose</text>
+  <text class="in" x="440" y="187" style="--w:1.7s"><tspan class="a b">Stack</tspan><tspan class="m">: </tspan>Go · Kotlin · C#</text>
   <text class="in" x="440" y="206" style="--w:1.8s"><tspan class="a b">Tools</tspan><tspan class="m">: </tspan>Git · Android Studio · Godot</text>
   <text class="in" x="440" y="225" style="--w:1.9s"><tspan class="a b">Ahora</tspan><tspan class="m">: </tspan>aprendiendo Kotlin Multiplatform</text>
   <g class="in" style="--w:2.0s">
