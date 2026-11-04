@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="452" viewBox="0 0 900 452" role="img" aria-label="Konsole en CachyOS con fish: fastfetch de Marco, ingeniería de software, backend y apps multiplataforma. Stack: Go, Kotlin, C#.">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="452" viewBox="0 0 900 452" role="img" aria-label="Konsole con fish: fastfetch de Marco, ingeniería de software, backend y apps multiplataforma. Stack: Go, Kotlin, C#.">
   <defs>
-    <linearGradient id="cachy" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#00e5a0"/>
       <stop offset="1" stop-color="#00b4d8"/>
     </linearGradient>
@@ -12,7 +12,7 @@
     .c { fill: #00b4d8; }
     .b { font-weight: 700; }
     .t { font-size: 13px; fill: #9aa3b5; }
-    .ascii { fill: url(#cachy); }
+    .ascii { fill: url(#grad); }
     .wipe { fill: #11141a; transform-box: fill-box; transform-origin: right; animation: wipe var(--d, .7s) steps(var(--s, 10)) var(--w, 0s) both; }
     .in { animation: in .25s ease-out var(--w, 0s) both; }
     .bar { transform-box: fill-box; transform-origin: left; animation: grow 1.4s steps(20) 4.9s both; }
@@ -40,9 +40,9 @@
   </g>
 
   <!-- fastfetch -->
-  <text x="24" y="62" textLength="128" lengthAdjust="spacingAndGlyphs"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">cachyos</tspan> <tspan class="c">~</tspan>&gt;</text>
-  <text x="160" y="62">fastfetch</text>
-  <rect class="wipe" x="158" y="48" width="82" height="19" style="--w:.3s;--d:.7s;--s:9"/>
+  <text x="24" y="62" textLength="96" lengthAdjust="spacingAndGlyphs"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan> <tspan class="c">~</tspan>&gt;</text>
+  <text x="128" y="62">fastfetch</text>
+  <rect class="wipe" x="126" y="48" width="82" height="19" style="--w:.3s;--d:.7s;--s:9"/>
 
   <g xml:space="preserve">
     <text class="ascii in" x="24" y="110" textLength="370" lengthAdjust="spacingAndGlyphs" style="--w:1.10s">███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗ </text>
@@ -53,9 +53,9 @@
     <text class="ascii in" x="24" y="190" textLength="370" lengthAdjust="spacingAndGlyphs" style="--w:1.50s">╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ </text>
   </g>
 
-  <text class="in" x="440" y="92"  style="--w:1.2s"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">cachyos</tspan></text>
-  <text class="m in" x="440" y="110" style="--w:1.3s">-------------</text>
-  <text class="in" x="440" y="130" style="--w:1.4s"><tspan class="a b">OS</tspan><tspan class="m">:    </tspan>CachyOS x86_64</text>
+  <text class="in" x="440" y="92"  style="--w:1.2s"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan></text>
+  <text class="m in" x="440" y="110" style="--w:1.3s">---------</text>
+  <text class="in" x="440" y="130" style="--w:1.4s"><tspan class="a b">OS</tspan><tspan class="m">:    </tspan>Linux x86_64</text>
   <text class="in" x="440" y="149" style="--w:1.5s"><tspan class="a b">Rol</tspan><tspan class="m">:   </tspan>ingeniería de software</text>
   <text class="in" x="440" y="168" style="--w:1.6s"><tspan class="a b">Foco</tspan><tspan class="m">:  </tspan>backend · apps multiplataforma</text>
   <text class="in" x="440" y="187" style="--w:1.7s"><tspan class="a b">Stack</tspan><tspan class="m">: </tspan>Go · Kotlin · C#</text>
@@ -71,9 +71,9 @@
   </g>
 
   <!-- git log -->
-  <text x="24" y="292" textLength="128" lengthAdjust="spacingAndGlyphs"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">cachyos</tspan> <tspan class="c">~</tspan>&gt;</text>
-  <text x="160" y="292">git log --graph --oneline</text>
-  <rect class="wipe" x="158" y="278" width="220" height="19" style="--w:2.3s;--d:1s;--s:25"/>
+  <text x="24" y="292" textLength="96" lengthAdjust="spacingAndGlyphs"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan> <tspan class="c">~</tspan>&gt;</text>
+  <text x="128" y="292">git log --graph --oneline</text>
+  <rect class="wipe" x="126" y="278" width="220" height="19" style="--w:2.3s;--d:1s;--s:25"/>
 
   <text class="in" x="24" y="316" style="--w:3.4s"><tspan class="a">*</tspan> <tspan class="m">a3f9c21</tspan> <tspan class="c">(HEAD -&gt; main)</tspan> feat: casos de uso de eventos</text>
   <text class="a in" x="24" y="333" style="--w:3.5s">|\</text>
@@ -83,19 +83,19 @@
   <text class="in" x="24" y="401" style="--w:3.9s"><tspan class="a">*</tspan> <tspan class="m">1c0a9e3</tspan> init: proyecto multiplataforma</text>
 
   <!-- make build -->
-  <text x="560" y="292" textLength="128" lengthAdjust="spacingAndGlyphs"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">cachyos</tspan> <tspan class="c">~</tspan>&gt;</text>
-  <text x="696" y="292">make build</text>
-  <rect class="wipe" x="694" y="278" width="92" height="19" style="--w:4.1s;--d:.6s;--s:10"/>
+  <text x="560" y="292" textLength="96" lengthAdjust="spacingAndGlyphs"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan> <tspan class="c">~</tspan>&gt;</text>
+  <text x="664" y="292">make build</text>
+  <rect class="wipe" x="662" y="278" width="92" height="19" style="--w:4.1s;--d:.6s;--s:10"/>
 
   <text class="m in" x="560" y="316" style="--w:4.8s">compilando módulos…</text>
   <g class="in" style="--w:4.8s">
     <rect x="560" y="328" width="250" height="12" rx="2" fill="#1a1e26" stroke="#2a2f3a"/>
   </g>
-  <rect class="bar" x="561" y="329" width="248" height="10" rx="1.5" fill="url(#cachy)"/>
+  <rect class="bar" x="561" y="329" width="248" height="10" rx="1.5" fill="url(#grad)"/>
   <text class="a in" x="820" y="339" style="--w:6.3s">100%</text>
   <text class="in" x="560" y="367" style="--w:6.4s"><tspan class="a">✓</tspan> build ok <tspan class="m">· 0 errores</tspan></text>
 
   <!-- prompt final -->
-  <text class="in" x="24" y="432" textLength="128" lengthAdjust="spacingAndGlyphs" style="--w:6.7s"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">cachyos</tspan> <tspan class="c">~</tspan>&gt;</text>
-  <rect class="cur" x="160" y="419" width="9" height="16" fill="#00d4aa"/>
+  <text class="in" x="24" y="432" textLength="96" lengthAdjust="spacingAndGlyphs" style="--w:6.7s"><tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan> <tspan class="c">~</tspan>&gt;</text>
+  <rect class="cur" x="128" y="419" width="9" height="16" fill="#00d4aa"/>
 </svg>
