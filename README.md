@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="assets/terminal.svg" width="100%" alt="Consola con neofetch: un personaje de pixel art corriendo, dibujado en ASCII, y la información de Marco. Tecnologías: Go, Kotlin, C#, Git, Android y Godot.">
+<img src="assets/terminal.svg?v=en" width="100%" alt="Konsole terminal running neofetch: an animated pixel art character drawn in ASCII next to Marco's info. Technologies: Go, Kotlin, C#, Git, Android and Godot.">
 
-<a href="https://github.com/patosalvaje12121-ctrl/DnD-quedamos"><img src="assets/destacado.svg" width="100%" alt="Proyecto destacado: DnD-quedamos, app Kotlin Multiplatform para Android, Web y Escritorio."></a>
+<a href="https://github.com/patosalvaje12121-ctrl/DnD-quedamos"><img src="assets/featured.svg" width="100%" alt="Featured project: DnD-quedamos, a Kotlin Multiplatform app for Android, Web and Desktop."></a>
 
 </div>
