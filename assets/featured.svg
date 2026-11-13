@@ -11,6 +11,6 @@
   <rect x="1" y="1" width="898" height="72" rx="5" fill="#11141a" stroke="#2a2f3a" stroke-width="1.5"/>
   <text x="24" y="31" textLength="112" lengthAdjust="spacingAndGlyphs">[<tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan> <tspan class="c">~</tspan>]$</text>
   <text x="144" y="31">cat featured.md</text>
-  <text x="24" y="55"><tspan class="a">★</tspan> <tspan class="a b">DnD-quedamos</tspan> <tspan class="m">—</tspan> app for organizing meetups and events <tspan class="m">· Kotlin Multiplatform · Android · Web · Desktop</tspan></text>
+  <text x="24" y="55"><tspan class="a">★</tspan> <tspan class="a b">DnD-quedamos</tspan> <tspan class="m">—</tspan> meetup and event organizer <tspan class="m">· Kotlin Multiplatform · Android · Web · Desktop</tspan></text>
   <text class="c arrow" x="856" y="55">↗</text>
 </svg>
