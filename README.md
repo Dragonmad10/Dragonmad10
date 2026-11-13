@@ -6,6 +6,6 @@
 
 <a href="https://github.com/Dragonmad10/leaderboard-api"><img src="assets/learning.svg?v=2" width="100%" alt="Learning project: leaderboard-api, a game leaderboard REST API built to learn backend with Go, PostgreSQL and Redis."></a>
 
-<a href="https://github.com/silent-suite/silentsuite/pulls?q=is%3Apr+author%3ADragonmad10+is%3Amerged"><img src="assets/contributions.svg?v=2" width="100%" alt="Open source contributions: merged pull requests to SilentSuite, starting with #1013, an Overview link in the contributing docs sidebar."></a>
+<a href="https://github.com/silent-suite/silentsuite/pulls?q=is%3Apr+author%3ADragonmad10"><img src="assets/contributions.svg?v=4" width="100%" alt="Open source: contributor to SilentSuite, end-to-end encrypted calendar, contacts and tasks. Contributions to docs, tests and the web app. Opens a list of all my SilentSuite pull requests."></a>
 
 </div>
