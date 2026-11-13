@@ -6,11 +6,17 @@
     .c { fill: #00b4d8; }
     .b { font-weight: 700; }
     .arrow { animation: nudge 1.6s ease-in-out infinite; }
-    @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+    @keyframes nudge { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(3px, -3px); } }
+    .open { font-size: 10px; letter-spacing: 1px; }
+    .btn { animation: glow 2.4s ease-in-out infinite; }
+    @keyframes glow { 0%, 100% { stroke-opacity: .45; } 50% { stroke-opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .arrow, .btn { animation: none; } }
   </style>
-  <rect x="1" y="1" width="898" height="72" rx="5" fill="#11141a" stroke="#2a2f3a" stroke-width="1.5"/>
+  <rect x="1" y="1" width="824" height="72" rx="5" fill="#11141a" stroke="#2a2f3a" stroke-width="1.5"/>
+  <rect class="btn" x="836" y="1" width="63" height="72" rx="5" fill="#11141a" stroke="#00b4d8" stroke-width="1.5"/>
   <text x="24" y="31" textLength="112" lengthAdjust="spacingAndGlyphs">[<tspan class="a b">marco</tspan><tspan class="m">@</tspan><tspan class="a b">dev</tspan> <tspan class="c">~</tspan>]$</text>
   <text x="144" y="31">cat featured.md</text>
-  <text x="24" y="55"><tspan class="a">★</tspan> <tspan class="a b">DnD-quedamos</tspan> <tspan class="m">—</tspan> meetup and event organizer <tspan class="m">· Kotlin Multiplatform · Android · Web · Desktop</tspan></text>
-  <text class="c arrow" x="856" y="55">↗</text>
+  <text x="24" y="55"><tspan class="a">★</tspan> <tspan class="a b">DnD-quedamos</tspan> <tspan class="m">—</tspan> meetup and event app <tspan class="m">· Kotlin Multiplatform · Android · Web · Desktop</tspan></text>
+  <path class="arrow" d="M860 47 L875 32 M865 32 H875 V42" fill="none" stroke="#00b4d8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="m open" x="867.5" y="62" text-anchor="middle">OPEN</text>
 </svg>
