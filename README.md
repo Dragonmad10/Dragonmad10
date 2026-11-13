@@ -6,12 +6,6 @@
 
 <a href="https://github.com/Dragonmad10/leaderboard-api"><img src="assets/learning.svg" width="100%" alt="Learning project: leaderboard-api, a game leaderboard REST API built to learn backend with Go, PostgreSQL and Redis."></a>
 
-### 🌍 Open Source Contributions
-
-| Project | Contribution | Status |
-|---|---|---|
-| [SilentSuite](https://github.com/silent-suite/silentsuite) — end-to-end encrypted sync for calendar, contacts and tasks | [Added an Overview link to the contributing docs sidebar (#1013)](https://github.com/silent-suite/silentsuite/pull/1013) | ✅ Merged |
-
-[See all my merged PRs →](https://github.com/search?q=author%3ADragonmad10+is%3Apr+is%3Amerged+-user%3ADragonmad10&type=pullrequests)
+<a href="https://github.com/search?q=author%3ADragonmad10+is%3Apr+is%3Amerged+-user%3ADragonmad10&type=pullrequests"><img src="assets/contributions.svg" width="100%" alt="Open source contributions: merged pull request #1013 to SilentSuite, adding an Overview link to the contributing docs sidebar."></a>
 
 </div>
